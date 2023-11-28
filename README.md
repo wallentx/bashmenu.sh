@@ -1,5 +1,7 @@
 # bashmenu.sh
+```bash
 source <(curl -sL bashmenu.sh)
+```
 
 ## Description
 
