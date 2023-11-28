@@ -47,3 +47,6 @@ for option in "${my_options[@]}"; do
     echo -e "$option\t=> ${result[idx]}"
     ((idx++))
 done
+```
+
+ The multiselect function was based on multiselect.miu.io
